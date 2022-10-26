@@ -11,7 +11,7 @@
 - E/17/194 Madhushan Ramalingam
 - E/17/090 Achintha Harshamal
 
-##Project Overview
+## Project Overview
 
 PV system is a renewable energy system which converts solar power into electricity using photovoltaic cells.
 Usage of PV systems in the modern constructions are seen because it provides a greener,
@@ -28,6 +28,6 @@ This means that at night, when the solar panels do not work, you can use electri
 This project will go through the high-level implementation of a PV system 
 which is controlled and managed using a SCADA system along with a prototype design of the proposed system.
 
-##Project Presentation 
+## Project Presentation 
 - [PDF View](https://issuu.com/denuka_jayaweera/docs/project_presentation_-_final.pptx)
 
