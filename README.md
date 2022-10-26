@@ -1,15 +1,15 @@
 # Semi-Simulated-Photo-Voltic-Electric-Generation-Project
 
 ## Group Members
--E/17/144 Jayaweera K.P.C.D.B.
--E/17/405 Wijesinghe W.D.L.P.
--E/17/058 Isuri Devindi
--E/17/190 Sashini Liyanage
--E/17/369 Savindu Wannigama
--E/17/251 Sandun Perera
--E/17/331 Sathira Silva
--E/17/194 Madhushan Ramalingam
--E/17/090 Achintha Harshamal
+- E/17/144 Jayaweera K.P.C.D.B.
+- E/17/405 Wijesinghe W.D.L.P.
+- E/17/058 Isuri Devindi
+- E/17/190 Sashini Liyanage
+- E/17/369 Savindu Wannigama
+- E/17/251 Sandun Perera
+- E/17/331 Sathira Silva
+- E/17/194 Madhushan Ramalingam
+- E/17/090 Achintha Harshamal
 
 ##Project Overview
 
@@ -29,5 +29,5 @@ This project will go through the high-level implementation of a PV system
 which is controlled and managed using a SCADA system along with a prototype design of the proposed system.
 
 ##Project Presentation 
-[PDF View](https://issuu.com/denuka_jayaweera/docs/project_presentation_-_final.pptx)
+- [PDF View](https://issuu.com/denuka_jayaweera/docs/project_presentation_-_final.pptx)
 
